@@ -1,0 +1,16 @@
+.alert{
+    background-color: #ff8886;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.tag{
+    font-size: 24px;
+}
+#title{
+    color: blue;
+    font-size: 36px;
+}
+#name{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+}
